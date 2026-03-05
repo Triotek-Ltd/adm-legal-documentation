@@ -1,0 +1,32 @@
+[
+  {
+    "module_code": "adm11_3",
+    "module_label": "ADM 11.3 - Legal Archive Management",
+    "module_title": "Legal Archive Management",
+    "module_slug": "legal_archive_management",
+    "app_code": "adm11",
+    "app_label": "ADM 11 - Legal Documentation",
+    "bundle_code": "adm",
+    "source_md_path": "doc/rnd/plugs/adm/adm1.md"
+  },
+  {
+    "module_code": "adm11_1",
+    "module_label": "ADM 11.1 - Legal Document Creation",
+    "module_title": "Legal Document Creation",
+    "module_slug": "legal_document_creation",
+    "app_code": "adm11",
+    "app_label": "ADM 11 - Legal Documentation",
+    "bundle_code": "adm",
+    "source_md_path": "doc/rnd/plugs/adm/adm1.md"
+  },
+  {
+    "module_code": "adm11_2",
+    "module_label": "ADM 11.2 - Legal Review & Approval",
+    "module_title": "Legal Review & Approval",
+    "module_slug": "legal_review_and_approval",
+    "app_code": "adm11",
+    "app_label": "ADM 11 - Legal Documentation",
+    "bundle_code": "adm",
+    "source_md_path": "doc/rnd/plugs/adm/adm1.md"
+  }
+]
